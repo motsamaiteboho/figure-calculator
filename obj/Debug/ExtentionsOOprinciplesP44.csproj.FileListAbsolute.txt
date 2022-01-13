@@ -1,0 +1,12 @@
+C:\Users\Motsamai\source\repos\2016206381P4\obj\Debug\2016206381P4.csprojAssemblyReference.cache
+C:\Users\Motsamai\source\repos\2016206381P4\bin\Debug\2016206381P4.exe.config
+C:\Users\Motsamai\source\repos\2016206381P4\bin\Debug\2016206381P4.exe
+C:\Users\Motsamai\source\repos\2016206381P4\bin\Debug\2016206381P4.pdb
+C:\Users\Motsamai\source\repos\2016206381P4\obj\Debug\2016206381P4.exe
+C:\Users\Motsamai\source\repos\2016206381P4\obj\Debug\2016206381P4.pdb
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\Weekly Projects\2016206381P4\bin\Debug\2016206381P4.exe.config
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\Weekly Projects\2016206381P4\bin\Debug\2016206381P4.exe
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\Weekly Projects\2016206381P4\bin\Debug\2016206381P4.pdb
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\Weekly Projects\2016206381P4\obj\Debug\2016206381P4.csprojAssemblyReference.cache
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\Weekly Projects\2016206381P4\obj\Debug\2016206381P4.exe
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\Weekly Projects\2016206381P4\obj\Debug\2016206381P4.pdb
